@@ -4,5 +4,11 @@ h1 {
 
 .btn {
     box-shadow: 2px 2px 4px #5c5c5c;
+    align-items: center;
+}
+
+
+.mb-5, h1, h2, h3 {
+    text-align: center;
 }
 
