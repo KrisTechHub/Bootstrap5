@@ -12,3 +12,8 @@ h1 {
     text-align: center;
 }
 
+
+.col {
+    background-color: gray;
+    border: .5px black solid;
+}
