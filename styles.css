@@ -13,7 +13,10 @@ h1 {
 }
 
 
-.col {
+.col, .col-6, .col-5,
+.col-md-auto, .col-8, .col-4,
+.col-sm, .col-sm-8, .col-sm-4,
+.col-md-8, .col-sm-3 {
     background-color: gray;
     border: .5px black solid;
 }
